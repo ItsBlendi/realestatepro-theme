@@ -2,3 +2,4 @@
 .property-search-form{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:20px}
 .property-search-form input,.property-search-form select{padding:8px 10px;border:1px solid #ccc;border-radius:6px}
 .property-search-form button{background:var(--primary);color:#fff;border:none;padding:10px 18px;border-radius:6px;cursor:pointer}
+
